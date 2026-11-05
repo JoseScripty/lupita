@@ -14,6 +14,10 @@ env/
 *.xlsx
 ~$*.xlsx
 
+# Marcas corregidas y agregadas a mano (datos del personal)
+correcciones.json
+correcciones.tmp
+
 # Editor / sistema
 .vscode/
 .idea/
